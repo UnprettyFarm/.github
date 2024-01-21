@@ -11,6 +11,7 @@ Java 11
 MariaDB  
 Spring Data JPA  
 Query DSL  
+Security  
 Gradle  
 AWS  
 Docker  
