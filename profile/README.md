@@ -1,20 +1,20 @@
 ## Hi there 👋
-🥕 UnprettyFarm 🥕
+## 🥕 UnprettyFarm 🥕
 못난이 농산물 판매 플랫폼입니다.
 
-🥕 프로젝트 전체 구성도
+## 🥕 프로젝트 전체 구성도
 
 
-🥕 프로젝트 사용기술
-Spring Boot
-Java 11
-MariaDB
-Spring Data JPA
-Query DSL
-Gradle
-AWS
-Docker
-STS 3.9.18
+## 🥕 프로젝트 사용기술
+Spring Boot  
+Java 11  
+MariaDB  
+Spring Data JPA  
+Query DSL  
+Gradle  
+AWS  
+Docker  
+STS 3.9.18  
 
 <!--
 
