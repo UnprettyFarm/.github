@@ -17,8 +17,8 @@
 ![Jira Badge](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff&style=flat-square) ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat) ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 ![STS 3.9.18](https://img.shields.io/badge/STS-3.9.18-green?style=flat-square) ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat) ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=flat) ![Notion Badge](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=flat)
 
-
-
+## 👨‍👩‍👧‍👦 개발 팀 소개
+안제하(팀장) 김시유 김지수 김희찬
 
 
 <!--
