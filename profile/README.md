@@ -19,7 +19,12 @@
 
 ## 👨‍👩‍👧‍👦 개발 팀 소개
 안제하(팀장) 김시유 김지수 김희찬
-
+| 이름 | 역할 | 개발내용 |
+|------|------|-----|
+|   안제하   | Back-end<br> Front-end<br> 팀장     |   **Back-end**<br>- DB 설계<br>  **배포**   |
+|   김시유   | Front-end 총괄    | **Front-end**<br> - 'Recoil'를 이용한 상태관리     |
+|    김지수  | Back-end    |  **Back-end**<br> - DB 설계<br> - Iamport 활용 결제기능 구현<br> - 못난이매칭<br> - 파머찾기<br> - 찜<br> - 리뷰<br> **Front-end**<br> - Iamport 활용 결제 구현 |
+|     김희찬 | Back-end     |   **Back-end**<br> - JWT 인증 방식 구현|
 
 <!--
 
